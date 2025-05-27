@@ -1,1 +1,2 @@
 używać winforms
+trzeba pobrać rozszerzenie C# w Visual Studio

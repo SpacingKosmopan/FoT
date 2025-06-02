@@ -1,0 +1,5 @@
+FIXED SEVERAL BUG FIXES AND CRASHES
+-a
+-d
+-g
+[przekopiować z 3.0]
